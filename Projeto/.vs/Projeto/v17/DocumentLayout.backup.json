@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\usuario\\cadastrarusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\repositorio\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\contrato\\iusuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\projeto.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CadastrarUsuario.cshtml",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Usuario\\CadastrarUsuario.cshtml",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACUAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-10T20:14:50.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Projeto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Projeto\\Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABUAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:58:43.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:43:44.635Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IUsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\Contrato\\IUsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IUsuarioRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\Contrato\\IUsuarioRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:40:17.258Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Projeto",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Projeto.csproj",
+              "RelativeDocumentMoniker": "Projeto\\Projeto.csproj",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Projeto.csproj",
+              "RelativeToolTip": "Projeto\\Projeto.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-10T19:38:31.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Projeto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "RelativeToolTip": "Projeto\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:33:12.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\appsettings.json",
+              "RelativeDocumentMoniker": "Projeto\\appsettings.json",
+              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\appsettings.json",
+              "RelativeToolTip": "Projeto\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-10T19:30:24.285Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 88,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
