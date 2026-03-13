@@ -8,9 +8,9 @@ namespace Projeto.Repositorio
     {
         private readonly string _conexaoMySQL;
 
-        public UsuarioRepositorio(IConfiguration configuration)
+        public UsuarioRepositorio(IConfiguration conf)
         {
-            _conexaoMySQL = configuration.GetConnectionString("ConexaoMySQL");
+            _conexaoMySQL = conf.GetConnectionString("ConexaoMySQL");
         }
         public void Atualizar(Usuario usuario)
         {
@@ -23,12 +23,12 @@ namespace Projeto.Repositorio
             {
                 conexao.Open();
 
-                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(NomeUsu, Cargo, DataNasc" +
-                                                     "values (@NomeUsu, @Cargo, @DataNasc)", conexao);
+                MySqlCommand cmd = new MySqlCommand("insert into tbUsuario(NomeUsu, Cargo, DataNasc) " +
+                                                     " values (@NomeUsu, @Cargo, @DataNasc)", conexao);
 
                 cmd.Parameters.Add("@NomeUsu", MySqlDbType.VarChar).Value = usuario.NomeUsu;
                 cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
-                cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.Date).Value = usuario.DataNasc;
 
                 cmd.ExecuteNonQuery();
                 conexao.Close();

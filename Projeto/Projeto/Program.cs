@@ -1,3 +1,4 @@
+using Projeto.Repositorio;
 using Projeto.Repositorio.Contrato;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -6,7 +7,7 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 //Adicionando a interface como serviço
-builder.Services.AddScoped<IUsuarioRepositorio, IUsuarioRepositorio>();
+builder.Services.AddScoped<IUsuarioRepositorio, UsuarioRepositorio>();
 
 var app = builder.Build();
 
