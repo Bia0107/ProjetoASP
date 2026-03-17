@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Projeto.Models;
+using Projeto.Repositorio;
 using Projeto.Repositorio.Contrato;
 
 namespace Projeto.Controllers
@@ -12,6 +13,11 @@ namespace Projeto.Controllers
         {
             _usuarioRepositorio = usuarioRepositorio;
         }
+        public IActionResult Index()
+        {
+            return View(_usuarioRepositorio.ObterTodosUsuarios());
+        }
+
 
         [HttpGet]
         public IActionResult CadastrarUsuario()
@@ -28,9 +34,11 @@ namespace Projeto.Controllers
             return View();
         }
 
-        public IActionResult Index()
+        public IActionResult ExcluirUsuario(int Id)
         {
-            return View();
+            _usuarioRepositorio.Excluir(Id);
+            return RedirectToAction(nameof(Index));
         }
+
     }
 }

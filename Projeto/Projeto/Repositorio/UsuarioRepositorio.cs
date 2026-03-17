@@ -1,6 +1,8 @@
-﻿using MySql.Data.MySqlClient;
+﻿using Microsoft.CodeAnalysis.Elfie.Diagnostics;
+using MySql.Data.MySqlClient;
 using Projeto.Models;
 using Projeto.Repositorio.Contrato;
+using System.Data;
 
 namespace Projeto.Repositorio
 {
@@ -38,12 +40,43 @@ namespace Projeto.Repositorio
 
         public void Excluir(int Id)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("delete from tbUsuario where IdUsu=@IdUsu", conexao);
+                cmd.Parameters.AddWithValue("@IdUsu", Id);
+                int i = cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
 
         public IEnumerable<Usuario> ObterTodosUsuarios()
         {
-            throw new NotImplementedException();
+            List<Usuario> UsuarioList = new List<Usuario>();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("select * from tbUsuario", conexao);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                DataTable dt = new DataTable();
+                da.Fill(dt);
+
+                conexao.Close();
+
+                foreach(DataRow dr in dt.Rows)
+                {
+                    UsuarioList.Add(
+                        new Usuario
+                        {
+                            IdUsu = Convert.ToInt32(dr["IdUsu"]),
+                            NomeUsu = (string)dr["NomeUsu"],
+                            Cargo = (string)dr["Cargo"],
+                            DataNasc = Convert.ToDateTime(dr["DataNasc"])
+                        });
+                }
+                return UsuarioList;
+            }
         }
 
         public Usuario ObterUsuario(int Id)
