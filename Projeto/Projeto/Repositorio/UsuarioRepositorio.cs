@@ -16,7 +16,20 @@ namespace Projeto.Repositorio
         }
         public void Atualizar(Usuario usuario)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("update tbUsuario set NomeUsu=@NomeUsu, Cargo=@Cargo, " +
+                                                      "DataNasc=@DataNasc where IdUsu=@IdUsu;", conexao);
+
+                cmd.Parameters.Add("@NomeUsu", MySqlDbType.VarChar).Value = usuario.NomeUsu;
+                cmd.Parameters.Add("@Cargo", MySqlDbType.VarChar).Value = usuario.Cargo;
+                cmd.Parameters.Add("@DataNasc", MySqlDbType.VarChar).Value = usuario.DataNasc.ToString("yyyy/mm/dd");
+                cmd.Parameters.Add("@IdUsu",MySqlDbType.VarChar).Value = usuario.IdUsu;
+
+                cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
 
         public void Cadastrar(Usuario usuario)
@@ -81,7 +94,27 @@ namespace Projeto.Repositorio
 
         public Usuario ObterUsuario(int Id)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("Select * from usuario" +
+                                                    " where IdUsu=@IdUsu", conexao);
+                cmd.Parameters.AddWithValue("@IdUsu", Id);
+
+                MySqlDataAdapter da = new MySqlDataAdapter(cmd);
+                MySqlDataReader dr;
+
+                Usuario usuario = new Usuario();
+                dr = cmd.ExecuteReader(CommandBehavior.CloseConnection);
+                while (dr.Read()) ;
+                {
+                    usuario.IdUsu = Convert.ToInt32(dr["IdUsu"]);
+                    usuario.NomeUsu = (string)(dr["NomeUsu"]);
+                    usuario.Cargo = (string)(dr["Cargo"]);
+                    usuario.DataNasc = Convert.ToDateTime(dr["DataNasc"]);
+                }
+                return usuario;
+            }
         }
     }
 }
