@@ -18,6 +18,35 @@ namespace Projeto.Controllers
             return View(_usuarioRepositorio.ObterTodosUsuarios());
         }
 
+        [HttpGet]
+        public IActionResult DetalhesUsuario(int Id)
+        {
+            return View(_usuarioRepositorio.ObterUsuario(Id));
+        }
+
+        [HttpPost]
+        public IActionResult DetalhesUsuario(Usuario usuario)
+        {
+            _usuarioRepositorio.Atualizar(usuario);
+
+            return RedirectToAction(nameof(Index));
+        }
+
+
+        [HttpGet]
+        public IActionResult AtualizarUsuario(int Id)
+        {
+            return View(_usuarioRepositorio.ObterUsuario(Id));
+        }
+
+        [HttpPost]
+        public IActionResult AtualizarUsuario(Usuario usuario)
+        {
+            _usuarioRepositorio.Atualizar(usuario);
+
+            return RedirectToAction(nameof(Index));
+        }
+
 
         [HttpGet]
         public IActionResult CadastrarUsuario()

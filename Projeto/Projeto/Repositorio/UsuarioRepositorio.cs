@@ -1,4 +1,6 @@
-﻿using Microsoft.CodeAnalysis.Elfie.Diagnostics;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.CodeAnalysis.Elfie.Diagnostics;
+using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using MySql.Data.MySqlClient;
 using Projeto.Models;
 using Projeto.Repositorio.Contrato;
