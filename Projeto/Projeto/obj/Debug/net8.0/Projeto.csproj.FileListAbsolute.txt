@@ -739,3 +739,4 @@ C:\Users\3MTEC\Documents\ProjetoASP\Projeto\Projeto\obj\Debug\net8.0\refint\Proj
 C:\Users\3MTEC\Documents\ProjetoASP\Projeto\Projeto\obj\Debug\net8.0\Projeto.pdb
 C:\Users\3MTEC\Documents\ProjetoASP\Projeto\Projeto\obj\Debug\net8.0\Projeto.genruntimeconfig.cache
 C:\Users\3MTEC\Documents\ProjetoASP\Projeto\Projeto\obj\Debug\net8.0\ref\Projeto.dll
+C:\Users\Bia\OneDrive\Desktop\ProjetoASP\Projeto\Projeto\obj\Debug\net8.0\Projeto.sourcelink.json
