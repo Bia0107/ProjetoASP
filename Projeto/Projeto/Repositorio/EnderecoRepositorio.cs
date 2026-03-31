@@ -15,7 +15,23 @@ namespace Projeto.Repositorio
         }
         public void Atualizar(Endereco endereco)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("update tbEndereco set (CEP=@CEP, Estado=@Estado, Bairro=@Bairro, " +
+                    "Logradouro=@Logradouro, Complemento=@Complemento, Numero=@Numero;", conexao);
+
+                cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = endereco.CEP;
+                cmd.Parameters.Add("@Estado", MySqlDbType.VarChar).Value = endereco.Estado;
+                cmd.Parameters.Add("@Cidade", MySqlDbType.VarChar).Value = endereco.Cidade;
+                cmd.Parameters.Add("@Bairro", MySqlDbType.VarChar).Value = endereco.Bairro;
+                cmd.Parameters.Add("@Logradouro", MySqlDbType.VarChar).Value = endereco.Logradouro;
+                cmd.Parameters.Add("@Complemento", MySqlDbType.VarChar).Value = endereco.Complemento;
+                cmd.Parameters.Add("@Numero", MySqlDbType.VarChar).Value = endereco.Numero;
+
+                cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
 
         public void Cadastrar(Endereco endereco)
@@ -52,7 +68,14 @@ namespace Projeto.Repositorio
 
         public void Excluir(int Id)
         {
-            throw new NotImplementedException();
+            using (var conexao = new MySqlConnection(_conexaoMySQL))
+            {
+                conexao.Open();
+                MySqlCommand cmd = new MySqlCommand("delete from tbEndereco where Id=@Id", conexao);
+                cmd.Parameters.AddWithValue("@Id", Id);
+                int i = cmd.ExecuteNonQuery();
+                conexao.Close();
+            }
         }
 
         public Endereco ObterEndereco(int Id)

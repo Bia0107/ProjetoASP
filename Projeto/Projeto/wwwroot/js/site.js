@@ -17,7 +17,7 @@ $(document).ready(function () {
         $("#Complemento").val("");
     }
 
-    $("CEP").blurr(function () {
+    $("CEP").blur(function () {
         var cep = $(this).val().replace(/\D/g, '');
 
         if (cep != "") {

@@ -1,78 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\",
+  "WorkspaceRootPath": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\endereco\\cadastrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\endereco\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\contrato\\ienderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\usuariorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\enderecocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\repositorio\\enderecorepositorio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\endereco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\bia\\onedrive\\desktop\\projetoasp\\projeto\\projeto\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\views\\usuario\\detalhesusuario.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|c:\\users\\3mtec\\documents\\projetoasp\\projeto\\projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4DA596C-0C58-4F34-A9C5-133A6B4E2790}|Projeto\\Projeto.csproj|solutionrelative:projeto\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -82,101 +50,94 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UsuarioRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAIwG8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T19:43:44.635Z",
+              "IsPinned": true,
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAABoAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
+              "Title": "Cadastrar.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAABZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T19:04:27.677Z",
+              "WhenOpened": "2026-03-31T11:22:43.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Program.cs",
-              "RelativeDocumentMoniker": "Projeto\\Program.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Program.cs",
-              "RelativeToolTip": "Projeto\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T21:47:54.598Z",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Index.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Endereco\\Index.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-31T11:22:37.822Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsuarioRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeDocumentMoniker": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\UsuarioRepositorio.cs",
-              "RelativeToolTip": "Projeto\\Repositorio\\UsuarioRepositorio.cs",
-              "ViewState": "AgIAADoAAAAAAAAAAAArwEgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-10T19:43:44.635Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "_ViewImports.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\_ViewImports.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\_ViewImports.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\_ViewImports.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\_ViewImports.cshtml",
+              "DocumentIndex": 2,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Projeto\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T19:04:24.241Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\appsettings.json",
-              "RelativeDocumentMoniker": "Projeto\\appsettings.json",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\appsettings.json",
-              "RelativeToolTip": "Projeto\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-03-27T21:18:06.044Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "Projeto\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "Projeto\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T19:04:00.146Z",
+              "WhenOpened": "2026-03-31T11:22:05.133Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "IEnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "RelativeDocumentMoniker": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "RelativeToolTip": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T11:12:53.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EnderecoController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
+              "RelativeDocumentMoniker": "Projeto\\Controllers\\EnderecoController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
+              "RelativeToolTip": "Projeto\\Controllers\\EnderecoController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAgwAgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-29T17:45:14.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
               "RelativeDocumentMoniker": "Projeto\\Models\\Usuario.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Usuario.cs",
               "RelativeToolTip": "Projeto\\Models\\Usuario.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -185,153 +146,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Privacy.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Privacy.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Home\\Privacy.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Privacy.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Home\\Privacy.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T19:03:47.36Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEnderecoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
-              "RelativeDocumentMoniker": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
-              "RelativeToolTip": "Projeto\\Repositorio\\Contrato\\IEnderecoRepositorio.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T20:53:05.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "UsuarioController.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
               "RelativeDocumentMoniker": "Projeto\\Controllers\\UsuarioController.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Controllers\\UsuarioController.cs",
               "RelativeToolTip": "Projeto\\Controllers\\UsuarioController.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAgwBwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwBwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-10T19:58:43.775Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T19:03:44.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "site.js",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "Projeto\\wwwroot\\js\\site.js",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "Projeto\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAC8AAAAAAAAAAAAAABkAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2026-03-29T18:41:12.205Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "Cadastrar.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Cadastrar.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Endereco\\Cadastrar.cshtml",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAFMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T17:56:42.534Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Endereco\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Endereco\\Index.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Endereco\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-29T17:50:35.72Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "EnderecoController.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
-              "RelativeDocumentMoniker": "Projeto\\Controllers\\EnderecoController.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Controllers\\EnderecoController.cs",
-              "RelativeToolTip": "Projeto\\Controllers\\EnderecoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-29T17:45:14.287Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 6,
               "Title": "EnderecoRepositorio.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
               "RelativeDocumentMoniker": "Projeto\\Repositorio\\EnderecoRepositorio.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Repositorio\\EnderecoRepositorio.cs",
               "RelativeToolTip": "Projeto\\Repositorio\\EnderecoRepositorio.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowAkAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T20:56:37.175Z"
+              "WhenOpened": "2026-03-27T20:56:37.175Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 8,
               "Title": "Endereco.cs",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
+              "DocumentMoniker": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
               "RelativeDocumentMoniker": "Projeto\\Models\\Endereco.cs",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
+              "ToolTip": "C:\\Users\\3MTEC\\Documents\\ProjetoASP\\Projeto\\Projeto\\Models\\Endereco.cs",
               "RelativeToolTip": "Projeto\\Models\\Endereco.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-27T19:12:45.898Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "DetalhesUsuario.cshtml",
-              "DocumentMoniker": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeDocumentMoniker": "Projeto\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ToolTip": "C:\\Users\\Bia\\OneDrive\\Desktop\\ProjetoASP\\Projeto\\Projeto\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "RelativeToolTip": "Projeto\\Views\\Usuario\\DetalhesUsuario.cshtml",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-03-24T12:06:42.421Z"
-            }
-          ]
-        },
-        {
-          "DockedWidth": 88,
-          "SelectedChildIndex": -1,
-          "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+              "WhenOpened": "2026-03-27T19:12:45.898Z",
+              "EditorCaption": ""
             }
           ]
         }
