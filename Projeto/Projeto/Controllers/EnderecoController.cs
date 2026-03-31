@@ -14,7 +14,7 @@ namespace Projeto.Controllers
 
         public IActionResult Index()
         {
-            return View(_enderecoRepositorio.ObterTodosEnderecos);
+            return View(_enderecoRepositorio.ObterTodosEnderecos());
         }
 
         [HttpGet]

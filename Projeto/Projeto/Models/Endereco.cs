@@ -24,7 +24,7 @@ namespace Projeto.Models
         [Required(ErrorMessage = "O Bairro é obrigatório")]
         public string Bairro { get; set; }
 
-        [Display(Name = "Endereco", Description = "Endereco.")]
+        [Display(Name = "Logradouro", Description = "Logradouro.")]
         [Required(ErrorMessage = "O Endereço é obrigatório")]
         public string Logradouro { get; set; }
 

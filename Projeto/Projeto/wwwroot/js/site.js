@@ -1,10 +1,4 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
-
-// Write your JavaScript code.
-
-
-$(document).ready(function () {
+﻿$(document).ready(function () {
     $(".cep").mask("00.000-000");
 });
 
@@ -12,12 +6,12 @@ $(document).ready(function () {
     function limpa_formulario_cep() {
         $("#Estado").val("");
         $("#Cidade").val("");
-        $("#Endereco").val("");
+        $("#Logradouro").val("");
         $("#Bairro").val("");
         $("#Complemento").val("");
     }
 
-    $("CEP").blur(function () {
+    $("#CEP").blur(function () {
         var cep = $(this).val().replace(/\D/g, '');
 
         if (cep != "") {
@@ -27,7 +21,7 @@ $(document).ready(function () {
 
                 $("#Estado").val("...");
                 $("#Cidade").val("...");
-                $("#Endereco").val("...");
+                $("#Logradouro").val("...");
                 $("#Bairro").val("...");
                 $("#Complemento").val("...");
 
@@ -36,7 +30,7 @@ $(document).ready(function () {
                     if (!("erro" in dados)) {
                         $("#Estado").val(dados.uf);
                         $("#Cidade").val(dados.localidade);
-                        $("#Endereco").val(dados.logradouro);
+                        $("#Logradouro").val(dados.logradouro);
                         $("#Bairro").val(dados.bairro);
                         $("#Complemento").val(dados.complemento);
                     }

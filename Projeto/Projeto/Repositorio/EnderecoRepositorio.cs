@@ -18,7 +18,7 @@ namespace Projeto.Repositorio
             using (var conexao = new MySqlConnection(_conexaoMySQL))
             {
                 conexao.Open();
-                MySqlCommand cmd = new MySqlCommand("update tbEndereco set (CEP=@CEP, Estado=@Estado, Bairro=@Bairro, " +
+                MySqlCommand cmd = new MySqlCommand("update tbEndereco set (CEP=@CEP, Estado=@Estado, Cidade=@Cidade, Bairro=@Bairro, " +
                     "Logradouro=@Logradouro, Complemento=@Complemento, Numero=@Numero;", conexao);
 
                 cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = endereco.CEP;
@@ -40,9 +40,9 @@ namespace Projeto.Repositorio
             {
                 using (var conexao = new MySqlConnection(_conexaoMySQL))
                 {
-                    MySqlCommand cmd = new MySqlCommand("insert into tbEndereco(CEP, Estado, Bairro)" +
-                        "Logradouro, Complemento, Numero" +
-                        "values (@CEP, @Estado, @Bairro, @Logradouro, @Complemento, @Numero)", conexao);
+                    conexao.Open();
+                    MySqlCommand cmd = new MySqlCommand("insert into tbEndereco(CEP, Estado, Cidade, Bairro, Logradouro, Complemento, Numero)" +
+                        "values (@CEP, @Estado, @Cidade, @Bairro, @Logradouro, @Complemento, @Numero)", conexao);
 
                     cmd.Parameters.Add("@CEP", MySqlDbType.VarChar).Value = endereco.CEP;
                     cmd.Parameters.Add("@Estado", MySqlDbType.VarChar).Value = endereco.Estado;
@@ -58,11 +58,11 @@ namespace Projeto.Repositorio
             }
             catch (MySqlException ex)
             {
-                throw new Exception("Erro no banco em cdastro cliente" + ex.Message);
+                throw new Exception("Erro no banco em cadastro cliente" + ex.Message);
             }
             catch (Exception ex)
             {
-                throw new Exception("Erro na aplicação em cdastro cliente" + ex.Message);
+                throw new Exception("Erro na aplicação em cadastro cliente" + ex.Message);
             }
         }
 
